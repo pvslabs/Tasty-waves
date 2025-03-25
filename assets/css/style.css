@@ -1599,7 +1599,8 @@ ul.star {
 .products {
     width: 97%;
     border: 1px solid #bbbbbb;
-    padding: 40px 20px 20px 30px;
+    /* padding: 40px 20px 20px 30px; */
+    padding: 20px 20px 20px 20px;
     background-color: #fff;
     position: relative;
     margin-left: -1px;
@@ -1620,7 +1621,8 @@ ul.star {
     padding-right: 10px;
 }
 .products img {
-    padding-left: 31px;
+    /* padding-left: 31px; */
+    padding-left: 0px;
 }
 .products span {
     position: absolute;
@@ -1981,7 +1983,8 @@ img.extra-images-three {
     background-color: #f4b41a;
 }
 .owl-carousel .owl-item img {
-    width: auto;
+    /* width: auto; */
+    width: 100%;
 }
 .clients-reviews {
     position: relative;
