@@ -480,7 +480,7 @@ li.navbar-dropdown span {
 }
 /* 04. two-bar */
 .bottom-bar {
-    border-top: 1px solid #143e5a;
+    /* border-top: 1px solid #143e5a; */
     position: relative;
 }
 .two-bar {
