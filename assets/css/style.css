@@ -1885,6 +1885,9 @@ img.extra-images-three {
 .sustainability:hover i svg {
     transform: rotate3d(2, 1, 2, 360deg);
 }
+.sustainability:hover i img {
+    transition: .4s all;
+}
 .sustainability:hover {
     background-color: var(--common-colour);
     border-color: var(--common-colour) ;
